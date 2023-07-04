@@ -6,9 +6,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 const NavigationBar = styled.p`
-    background-color:#385993;
-    
-    
+    background-color:#385994;
+    padding-bottom:20px;
 
 `
 const Image = styled.img`
