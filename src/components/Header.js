@@ -13,6 +13,7 @@ const NavigationBar = styled.p`
 const Image = styled.img`
 padding-top:-20px;
 justify-content:start;
+padding-left:60px;
 
 `
 
@@ -21,9 +22,9 @@ const UnorderList = styled.ul`
 `
 const List = styled.li`
  display:flex;
- justify-content:center;
+ justify-content:end;
  padding-top:-70px;
- margin-right:30px;
+ margin-right:250px;
  list-style:none;
 margin-top:-30px;
  padding-bottom:20px;
